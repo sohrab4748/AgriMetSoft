@@ -6,7 +6,7 @@ https://agrimetsoft.com
 
 <div class="container">
         <h1 class="text-center">Product List</h1>
-		 <p class="text-justify">Here is a list of tools developed by Agrimetsoft, each with a short description and a link to visit the product page. You can click on the link to view the page, check tutorials, and see the formulas. The prices listed are net prices; tax will be added based on your country.</p>
+		 <p class="text-justify">Here is a list of tools developed by AgriMetSoft, each with a brief description and a link to its product page. You can click the link to view the page, explore tutorials, and review the underlying formulas.</p>
 		 <br/>
         <table class="table-responsive">
             <tr>
