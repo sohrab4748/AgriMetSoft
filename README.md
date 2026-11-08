@@ -100,11 +100,6 @@ https://agrimetsoft.com
                 <td><p class="card-text"><a target="_blank" href="calculators/">Calculators</a></td>
             </tr>
             <tr>
-                <td>List Tools</td>
-                <td>On this website, discover over 13,000 software tools with detailed descriptions for easy exploration.</td>
-                <td><p class="card-text"><a target="_blank" href="https://list-tool.com" target="_blank">Download Tools</a></td>
-            </tr>
-            <tr>
                 <td>Distributions Calculator</td>
                 <td>This online tool fits and calculates distributions based on your data.</td>
                 <td><a target="_blank" href="https://agrimetsoft.com/distributions-calculator" >Distributions Calculator</a></td>
